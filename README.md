@@ -1,2 +1,18 @@
-# Dhafin-Razaqa-Luthfi_122450133_Resume-VDI
-Tugas Resume Visualisasi Data dan Informasi
+Dhafin Razaqa Luthfi<br>
+122450133<br>
+RA
+
+## Resume jurnal Making data visualization more efficient and effective: a survey
+
+### Visulisasi Data
+Visualisasi data merupakan cara yang efektif dalam menyajikan informasi secara visual. Dalam dunia bisnis visualisasi data menjadi hal yang krusial dalam membantu pengambilan
+keputusan yang berkaitan erat dengan pendapatan besar banyak perusahaan industri. Visualisasi data digunakan untuk memberikan gambaran umum yang baik tentang data yang sangat besar dan mempermudah interpretasi hasil analisis data kepada ilmuwan data. Teknologi seperti D3, Vega-Lite, VizQL, Tableau, dan Microsoft Power BI dapat mempermudah pengguna berinteraksi dengan visualisasi data. Alur pada visualisasi data terbagi menjadi lima yaitu impor data, persiapan data, manipulasi data, pemetaan, rendering. Spesifikasi visualisasi, pendekatan efisien, dan rekomendasi visualisasi data adalah kunci efisiensi visualisasi data.
+
+### Spesifikasi visualisasi
+Terdapat tiga bagian pada visualisasi data yaitu: data, tanda, dan pemetaan di antara keduanya. Pada data terdapat dua bagian yaitu: Catatan yang berisi data yang perlu divisualisasikan dan Transformasi yang berisi operasi seperti grup, bin, filter, dan pengurutan yang digunakan untuk mengubah rekaman pada data tertentu. Pada tanda(atau isyarat visual) berisi tipe, ukuran, legenda dan lain-lain. Pemetaan merupakan memetakan data ke tanda yang sesuai. Spesifikasi visualisasi data diklasifikasikan menjadi empat jenis: bahasa tingkat rendah, bahasa tingkat tinggi, alat berbasis GUI, dan Bahasa yang tidak ditentukan. Membuat visualisasi data lebih efisien dan efektif: survei Semakin tinggi spesifikasi visualisasi data, semakin mudah penggunaannya dan semakin kurang ekspresifnya. Bahasa tingkat rendah merupakan bahasa yang pengguna perlukan untuk menentukan semua elemen pemetaan. Sedangkan bahasa tingkat tinggi merangkum secara detail kontruksi visualisasi, seperti fungsi pemetaan, serta beberapa properti untuk tanda seperti ukuran kanva, legenda, dan juga properti lainnya. Alat berbasis GUI seperti Tableau, Qlik, dan juga masih banyak lainnya yang dapat membantu pembuatan prototipe visualisasi secara cepat. D3 merupakan alat berbasis bahasa tingkat tinggi yang dapat digunakan untuk menyempurnakan visualisasi yang diinginkan.
+
+### Pendekatan efisien untuk visualisasi data
+Efisiensi pada visualisasi data dapat dicapai melalui teknologi yang dapat memproses data dengan skala besar dan cepat. Teknologi seperti D3, Vega-Lite, VizQL, dan Tableau menjadi peran penting dalam memajukan penggunaan visualisasi data yang mudah diinterpretasikan. Untuk mempercepat proses visulisasi data kita dapat menggunakan beberapa teknik seperti pengindeksan, komputasi paralel, prediksi, dan penyimpanan data kolom.
+
+### Rekomendasi visualisasi
+Rekomendasi visualisasi memudahkan pengguna untuk memberikan rekomendasi visualisasi yang baik. Dengan memperhitungkan faktor pemilihan kolom, pemilihan visual, pengubahan data, dan jenis pengkodean. Sistem rekomendasi dapat mengenal visualisasi berdasarkan aturan yang telah ditetapkan. rekomendasi visualisasi berdasarkan spesifikasi terdapat dua jenis yaitu lengkap dan tidak lengkap. Berbagai metode seperti berbasis aturan dan pembelajaran mesin dapat digunakan untuk memilih visualisasi data yang tepat. Penggunaan Draco untuk pembelajaran mesin yang dapat mengekspresiakan preferensi pengguna, sedangkan Voyager dan DeepEye digunkan aturan perseptual untuk memberi perikatan visualisasi. Zenvisage merupakan rekomendasi platform visualisasi bedasarkan kesamaan atau jarak input pengguna, dan HARVEST, VizDeck, serta VizRec memberi rekomendasi yang dipersonalisasikan berdasarkan pengguna. Metode ini membantu pengguna untuk menemukan visualisasi yang sesuai dengan kebutuhan mereka. Kerangka kerja CompassQL dapat menjadi solusi yang potensial dengan penggunaan bahasa untuk mendeskripsikan metrik.
